@@ -1,0 +1,11 @@
+*\.vscode
+*.asm
+*.gb
+*.ihx
+*.lst
+*.map
+*.noi
+*.noi
+*.o
+*.sym
+*.bat
